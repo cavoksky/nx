@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/Contact": "pages/Contact.html",
+  "/Important-disclaimer": "pages/Important-disclaimer.html",
+  "/Privacy-policy": "pages/Privacy-policy.html",
+  "/Terms-and-conditions": "pages/Terms-and-conditions.html",
+  "/Trademarks": "pages/Trademarks.html",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
+}
